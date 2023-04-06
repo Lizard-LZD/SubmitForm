@@ -9,7 +9,7 @@ export default function App() {
   // Define a function to handle form submission
   const onSubmit = (data) => {
 
-    fetch("https://0534904d-85da-4995-920b-6058237d7542.mock.pstmn.io/submit", {
+    fetch("https://66b35316-443e-4443-8b20-f4a9133f6239.mock.pstmn.io/s", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
